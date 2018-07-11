@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 09845d68d33b85b4f8c8d72dcc7acab0
+timeCreated: 1530681733
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Betis.L
+    100002: Betis.R
+    100004: Cube
+    100006: Dada
+    100008: Kaki1.L
+    100010: Kaki1.R
+    100012: Kaki2.L
+    100014: Kaki2.L_end
+    100016: Kaki2.R
+    100018: Kaki2.R_end
+    100020: Kepala
+    100022: Kepala_end
+    100024: //RootNode
+    100026: Leher
+    100028: Paha.L
+    100030: Paha.R
+    100032: Perut
+    100034: Rig_koboy
+    100036: Tangan.L
+    100038: Tangan.L_end
+    100040: Tangan.R
+    100042: Tangan.R_end
+    100044: Tangan_Atas.L
+    100046: Tangan_Atas.R
+    100048: Tangan_Bawah.L
+    100050: Tangan_Bawah.R
+    400000: Betis.L
+    400002: Betis.R
+    400004: Cube
+    400006: Dada
+    400008: Kaki1.L
+    400010: Kaki1.R
+    400012: Kaki2.L
+    400014: Kaki2.L_end
+    400016: Kaki2.R
+    400018: Kaki2.R_end
+    400020: Kepala
+    400022: Kepala_end
+    400024: //RootNode
+    400026: Leher
+    400028: Paha.L
+    400030: Paha.R
+    400032: Perut
+    400034: Rig_koboy
+    400036: Tangan.L
+    400038: Tangan.L_end
+    400040: Tangan.R
+    400042: Tangan.R_end
+    400044: Tangan_Atas.L
+    400046: Tangan_Atas.R
+    400048: Tangan_Bawah.L
+    400050: Tangan_Bawah.R
+    2100000: RAMBUT
+    2100002: JANGGUT
+    2100004: KULIT
+    2100006: Material.002
+    2100008: Material.003
+    2100010: Material.001
+    2100012: Material.004
+    2100014: HIDUNG
+    4300000: Cube
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Perut
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Paha.L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Paha.R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Betis.L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Betis.R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki1.L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki1.R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dada
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leher
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kepala
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Atas.L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Atas.R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Bawah.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan_Bawah.R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki2.L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kaki2.R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.R_end
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Tangan.L_end
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: koboy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: koboy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Rig_koboy
+      parentName: koboy(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Perut
+      parentName: Rig_koboy
+      position: {x: -0, y: -0.0013627358, z: 0.02268554}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dada
+      parentName: Perut
+      position: {x: -0, y: 0.008076138, z: 0}
+      rotation: {x: -0.047708746, y: 0, z: -0, w: 0.9988613}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leher
+      parentName: Dada
+      position: {x: -0, y: 0.0075695855, z: 0}
+      rotation: {x: 0.047708746, y: 0, z: -0, w: 0.9988613}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Kepala
+      parentName: Leher
+      position: {x: -0, y: 0.0019947456, z: 0}
+      rotation: {x: 0.03313119, y: 0, z: -0, w: 0.99945104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kepala_end
+      parentName: Kepala
+      position: {x: -0, y: 0.010507075, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tangan_Atas.L
+      parentName: Dada
+      position: {x: -0.0030071384, y: 0.0050631524, z: 0.0004847707}
+      rotation: {x: 0.0012267694, y: -0.07321719, z: 0.7302202, w: 0.6792762}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Tangan_Bawah.L
+      parentName: Tangan_Atas.L
+      position: {x: -0, y: 0.00733, z: 0}
+      rotation: {x: 0.020139487, y: 0.70758, z: 0.049638152, w: 0.7045999}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+    - name: Tangan.L
+      parentName: Tangan_Bawah.L
+      position: {x: 0, y: 0.01217, z: 0.00043}
+      rotation: {x: 0.06443608, y: 0.000000018853976, z: -0.000000008004032, w: 0.9979219}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Tangan.L_end
+      parentName: Tangan.L
+      position: {x: -0, y: 0.0052351938, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tangan_Atas.R
+      parentName: Dada
+      position: {x: 0.0030071384, y: 0.0050631524, z: 0.0004847707}
+      rotation: {x: 0.0012267694, y: 0.07321719, z: -0.7302202, w: 0.6792762}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Tangan_Bawah.R
+      parentName: Tangan_Atas.R
+      position: {x: 1.2340023e-10, y: 0.0073280344, z: 0}
+      rotation: {x: 0.020139487, y: -0.70758, z: -0.049638152, w: 0.7045999}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+    - name: Tangan.R
+      parentName: Tangan_Bawah.R
+      position: {x: -0, y: 0.01176, z: 0.00038}
+      rotation: {x: 0.06443608, y: -0.000000018853976, z: 0.000000008004032, w: 0.9979219}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Tangan.R_end
+      parentName: Tangan.R
+      position: {x: -0, y: 0.0052351938, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Paha.L
+      parentName: Perut
+      position: {x: -0.0019446223, y: -0.0010472107, z: -1.4901161e-10}
+      rotation: {x: 0.0000059391773, y: 0.0134733375, z: 0.99990404, w: 0.0032182175}
+      scale: {x: 0.9999979, y: 0.99999994, z: 0.9999644}
+    - name: Betis.L
+      parentName: Paha.L
+      position: {x: 9.001269e-11, y: 0.008369102, z: 3.2177924e-11}
+      rotation: {x: -0.003210893, y: 0.99672973, z: -0.08074358, w: 0.00021506411}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Kaki1.L
+      parentName: Betis.L
+      position: {x: -7.859867e-11, y: 0.008875084, z: -7.362359e-11}
+      rotation: {x: -0.00000002291953, y: 0.89702535, z: -0.44197908, w: -0.00000020576591}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Kaki2.L
+      parentName: Kaki1.L
+      position: {x: -2.7147723e-11, y: 0.005034375, z: 2.373349e-10}
+      rotation: {x: 0.3572558, y: 0.0000005412842, z: 0.000000271444, w: 0.93400663}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Kaki2.L_end
+      parentName: Kaki2.L
+      position: {x: -0, y: 0.0038080406, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Paha.R
+      parentName: Perut
+      position: {x: 0.0019446223, y: -0.0010472107, z: -1.4901161e-10}
+      rotation: {x: -0.0000059391773, y: 0.0134733375, z: 0.99990404, w: -0.0032182175}
+      scale: {x: 0.9999979, y: 0.99999994, z: 0.9999644}
+    - name: Betis.R
+      parentName: Paha.R
+      position: {x: -9.001269e-11, y: 0.008369102, z: 3.2177924e-11}
+      rotation: {x: 0.003210893, y: 0.99672973, z: -0.08074358, w: -0.00021506411}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Kaki1.R
+      parentName: Betis.R
+      position: {x: 7.859867e-11, y: 0.008875084, z: -7.362359e-11}
+      rotation: {x: 0.00000002291953, y: 0.89702535, z: -0.44197908, w: 0.00000020576591}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Kaki2.R
+      parentName: Kaki1.R
+      position: {x: 2.7147723e-11, y: 0.005034375, z: 2.373349e-10}
+      rotation: {x: 0.3572558, y: -0.0000005412842, z: -0.000000271444, w: 0.93400663}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Kaki2.R_end
+      parentName: Kaki2.R
+      position: {x: -0, y: 0.0038080406, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
